@@ -1,0 +1,9 @@
+* {
+    overflow: hidden;
+    margin: 0;
+    padding: 0;
+}
+
+canvas {
+    cursor: url('/img/cursor.png'), auto;
+} 
